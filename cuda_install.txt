@@ -1,0 +1,7 @@
+1. https://developer.nvidia.com/cuda-toolkit-archive
+2. https://developer.nvidia.com/cudnn-downloads
+	version = 10
+3. pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+command to check is it use ?
+nvidia-smi
